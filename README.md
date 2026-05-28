@@ -11,7 +11,7 @@
 **Ce projet ne doit être utilisé que dans un cadre légal et éthique** : laboratoires de test, comptes vous appartenant, ou environnements ayant fait l’objet d’une autorisation écrite explicite.
 Tenter de tester ou d’accéder à des comptes sans autorisation est **illégal** et **pénalement répréhensible**. En téléchargeant ou en utilisant ce dépôt, vous acceptez de respecter les règles d’usage responsable.
 
-**Je tiens à remercier l’API PASS REVELATOR qui a permis la réalisation de ce programme. Pour en savoir plus sur la sécurité des mots de passe Windows et les techniques de contournement, je vous invite à visiter leur site : https://passwordrevelator.net/fr/deverrouiller-compte-windows-sans-mot-de-passe**
+**Je tiens à remercier l’API PASS REVELATOR qui a permis la réalisation de ce programme. Pour en savoir plus sur la sécurité des mots de passe Windows et les techniques de contournement, je vous invite à visiter leur site : https://passwordrevelator.net/fr/debloquer-compte-windows-sans-mot-de-passe**
 
 # PassRevelator – Réinitialisation mot de passe Windows
 
